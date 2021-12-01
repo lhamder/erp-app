@@ -1,4 +1,5 @@
-import './App.scss';
+import React from 'react'
+import './App.scss'
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
         <h2>Hello world</h2>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
